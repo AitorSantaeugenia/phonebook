@@ -8,7 +8,7 @@
 - d) Validation and ESLint -| Exercises 3.19 - 3.21 && 3.22
 
 ### Deployment
-- Done with Vercel at -> https://backendphonebook-1yojoaucn-aitorsantaeugenia.vercel.app/api/persons
+- Deploy with Heroku at -> https://pa3-phonebook-backend.herokuapp.com/
 
 ~~~ 
 In this part our focus shifts towards the backend, that is, towards implementing functionality on the server side of the stack. 
