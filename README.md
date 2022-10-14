@@ -8,6 +8,7 @@
 - d) Validation and ESLint -| Exercises 3.19 - 3.21 && 3.22
 
 ### Deployment
+<code>November 27º heroku will not be free anymore, remember me with an issue if you want to see this deployed in another service</code>
 - Deploy with Heroku at -> https://pa3-phonebook-backend.herokuapp.com/
 
 ~~~ 
